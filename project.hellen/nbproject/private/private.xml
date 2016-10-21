@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="3">
+        <file>
+            <url>src/sk/tuke/oop/items/Ammo.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>13</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/sk/tuke/oop/game/actors/ripley/Ripley.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>58</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/sk/tuke/oop/game/actors/enemies/Alien.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>95</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/items/BackpackImpl.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/Main.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Computer.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Semaphore.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/ripley/Running.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/items/AccessCard.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/machine/AbstractMachineState.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/machine/Reset.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/machine/Running.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/ActorFactoryImpl.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/machine/Machine.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Bullet.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/AmmoBox.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/LargeExplosion.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/machine/WallSwitch.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Movable.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/openables/Door.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Teleport.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/enemies/AlienMother.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Observer.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/ripley/Ripley.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/machine/Waiting.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/machine/Lever.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/AbstractActor.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/machine/Locked.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Switch.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/machine/FloorSwitch.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Cooler.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Body.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/openables/ExitDoor.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Ventilator.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/AlienEgg.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Tunnel.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/commands/Shoot.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/commands/Command.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/AbstractCharacter.java</file>
+            <file>file:/C:/Users/Matej%20Gazda/Desktop/oop-2015/project.hellen/src/sk/tuke/oop/game/actors/Barrel.java</file>
+        </group>
+    </open-files>
+</project-private>

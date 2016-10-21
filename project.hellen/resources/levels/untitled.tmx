@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="16" tileheight="16" nextobjectid="10">
+ <tileset firstgid="1" name="tileset01" tilewidth="16" tileheight="16" tilecount="500">
+  <image source="tilesets/tileset01.png" width="320" height="400"/>
+ </tileset>
+ <tileset firstgid="501" name="tileset02" tilewidth="16" tileheight="16" tilecount="500">
+  <image source="tilesets/tileset02.png" width="320" height="400"/>
+ </tileset>
+ <tileset firstgid="1001" name="tileset03" tilewidth="16" tileheight="16" tilecount="420">
+  <image source="tilesets/tileset03.png" width="320" height="336"/>
+ </tileset>
+ <layer name="background" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC4thYGCQQcJSaHxaYJAdYUCsgoT10fjUwnogsxkh7LARbq8sEMsPkH9phUftHbV31N5Re0eyvaxAzEsEpra9TiSqH7WXOvbGADEnHkwre/UGyL8j2V5WpHilp71zBsi/9LRXZYDsdSPCXkkGyvtZBSSqZwNiALIQ7ncQDgAA
+  </data>
+ </layer>
+ <layer name="walls" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC1vMyMCweIAwMkDnUwu8RDJ3pNuLzR30sJeWYNTeUXtH7R21dyTbS0xdSyt7yXHnqL2U2UtO+4pa9hJSP2ovde3FFp/0sheb+uFkLyG5gbZ3IDAAiZwn5xAOAAA=
+  </data>
+ </layer>
+ <objectgroup name="objects" width="20" height="10">
+  <object id="1" name="tunnel" type="tunnel" x="432" y="28" width="32" height="32"/>
+  <object id="5" name="ellen" type="ripley" x="429" y="425" width="32" height="32"/>
+  <object id="7" name="barrel" type="barrel" x="337" y="439" width="16" height="16"/>
+  <object id="8" name="switch" type="switch" x="439" y="289" width="20" height="23"/>
+  <object id="9" name="semaphore" type="semaphore" x="408" y="303" width="25" height="12"/>
+ </objectgroup>
+</map>

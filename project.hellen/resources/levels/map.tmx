@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="16" tileheight="16" nextobjectid="42">
+ <tileset firstgid="1" name="tileset01" tilewidth="16" tileheight="16" tilecount="500">
+  <image source="tilesets/tileset01.png" width="320" height="400"/>
+ </tileset>
+ <tileset firstgid="501" name="tileset02" tilewidth="16" tileheight="16" tilecount="500">
+  <image source="tilesets/tileset02.png" width="320" height="400"/>
+ </tileset>
+ <tileset firstgid="1001" name="tileset03" tilewidth="16" tileheight="16" tilecount="420">
+  <image source="tilesets/tileset03.png" width="320" height="336"/>
+ </tileset>
+ <layer name="background" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC4thYGCQQcJSaHxSMSsRakB2hAGxChLWR+OTiiNxiLuBzGaEsMNGuL2yQCxPob3o/oBhPQL+pRRLAjEPFkxre3HhUXsHxl5Q+cKLA8P0mA+Qf0ftHbV3IOzFlyeQMbXtdSLR76P2UsfeGCDmxINpZa/eAPmXGHtBecCIADZH4w+Ef0m1lxUpXtH9S8twnjNA8UtPe1UGyF43IuwFtXcJ9aOKCcgXEGEGMmYDYgAerCFOEA4AAA==
+  </data>
+ </layer>
+ <layer name="walls" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3W0QnAIAwEULv/GO5W2i36K+U0jb0YaO8gH6LyAoJat1JqUrW5jyPydxf14c3e2X+SHeSiinZ7kZvnHqBWuFYYfciV63WfvLVRridyOe7M/4rlWuvlcl10nqN3sLXeumj9l1xrbsW9MXIz6gKqnHCPEA4AAA==
+  </data>
+ </layer>
+ <objectgroup name="objects" width="20" height="10">
+  <object id="1" name="tunnel" type="tunnel" x="432" y="28" width="32" height="32"/>
+  <object id="5" name="ellen" type="ripley" x="429" y="425" width="32" height="32"/>
+  <object id="7" name="barrel" type="barrel" x="439" y="384" width="16" height="16"/>
+  <object id="8" name="switch" type="switch" x="439" y="289" width="20" height="23"/>
+  <object id="9" name="semaphore" type="semaphore" x="408" y="303" width="25" height="12"/>
+  <object id="13" name="front door" type="waiting1" x="335" y="433" width="18" height="29"/>
+  <object id="14" name="access card" type="access card" x="368" y="343" width="26" height="22"/>
+  <object id="18" name="waiting alien" type="waiting alien" x="300" y="346" width="29" height="31"/>
+  <object id="20" name="barrel" type="barrel" x="323" y="44" width="13" height="13"/>
+  <object id="21" name="barrel" type="barrel" x="321" y="32" width="15" height="15"/>
+  <object id="24" name="barrel" type="barrel" x="321" y="17" width="16" height="15"/>
+  <object id="25" name="teleport" type="teleport" x="18" y="15" width="43" height="39"/>
+  <object id="26" name="barrel" type="barrel" x="19" y="61" width="14" height="18"/>
+  <object id="28" name="barrel" type="barrel" x="34" y="61" width="14" height="18"/>
+  <object id="29" name="ammo" type="amoo" x="405" y="342" width="23" height="24"/>
+  <object id="30" name="computer" type="computer" x="24" y="389" width="80" height="48"/>
+  <object id="33" name="alien mother" type="alien mother" x="19" y="200" width="112" height="162"/>
+  <object id="34" name="front door" type="horizontal" x="112" y="159" width="30" height="19"/>
+  <object id="35" name="access card" type="access card" x="376" y="228" width="23" height="26"/>
+  <object id="37" name="large explosion" type="large explosion" x="398" y="27" width="30" height="29"/>
+  <object id="38" name="alien egg" type="alien egg" x="284" y="213" width="37" height="31"/>
+  <object id="39" name="ammo box" type="ammo box" x="181" y="423" width="19" height="17"/>
+  <object id="40" name="ammo box" type="ammo box" x="242" y="421" width="21" height="19"/>
+ </objectgroup>
+</map>
